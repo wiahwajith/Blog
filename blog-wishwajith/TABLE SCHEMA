@@ -1,0 +1,27 @@
+USER TABLE
+
+ID
+USERNAME
+PASSWORD_HASH
+DATE_REGISTERD
+
+------------------------
+
+POST TABLE
+
+ID
+CONTENT
+DATE
+USER_ID
+
+------------------------
+
+FEEDBACK TABLE
+
+ID
+COUNT
+POST_ID
+
+------------------------
+
+612655260V
